@@ -1,0 +1,19 @@
+{  
+    "data": [
+        {
+            "channel": 1,
+            "access_point": "Wifi_Home",
+            "rssi": -30
+        },
+        {
+            "channel": 1,
+            "access_point": "Wai_Fai_2GHz",
+            "rssi": -50
+        },
+        {
+            "channel": 2,
+            "access_point": "Wai_Fai_2GHz",
+            "rssi": -50
+        }
+    ]
+}
