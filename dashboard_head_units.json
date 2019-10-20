@@ -1,0 +1,39 @@
+{  
+    "data":[
+        {
+            "head_units": "head-unit-0001",
+            "access_point": "Wifi_Home",
+            "download": 100,
+            "uploads": 100,
+            "latency": 20
+        },
+        {
+            "head_units": "head-unit-0002",
+            "access_point": "Wifi_Home",
+            "download": 50,
+            "uploads": 50,
+            "latency": 10
+        },
+        {
+            "head_units": "head-unit-0003",
+            "access_point": "Wifi_Home",
+            "download": 200,
+            "uploads": 200,
+            "latency": 2
+        },
+        {
+            "head_units": "head-unit-0004",
+            "access_point": "Wai_Fai_2GHz",
+            "download": 0,
+            "uploads": 0,
+            "latency": 0
+        },
+        {
+            "head_units": "head-unit-dev-0001",
+            "access_point": "Wai_Fai_5GHz",
+            "download": 999,
+            "uploads": 999,
+            "latency": 999
+        }
+    ]
+}
