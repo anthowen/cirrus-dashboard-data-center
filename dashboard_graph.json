@@ -1,0 +1,24 @@
+{  
+    "data": [
+        {
+            "time": "8:51 am",
+            "download": 100,
+            "upload": 50
+        },
+        {
+            "time": "8:53 am",
+            "download": 90,
+            "upload": 50
+        },
+        {
+            "time": "8:57 am",
+            "download": 50,
+            "upload": 55
+        },
+        {
+            "time": "8:59 am",
+            "download": 10,
+            "upload": 50
+        }
+    ]
+}
