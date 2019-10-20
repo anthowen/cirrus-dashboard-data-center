@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "access_point": "Wifi_Home",
+            "mac": "00:00:00:00",
+            "tot_users": 5
+        },
+        {
+            "access_point": "Wifi_Home",
+            "mac": "00:00:00:05",
+            "tot_users": 5
+        },
+        {
+            "access_point": "Wifi_Home",
+            "mac": "FF:FF:FF:FF",
+            "tot_users": 0
+        },
+        {
+            "access_point": "Wifi_Home",
+            "mac": "FF:FF:FF:FE",
+            "tot_users": 100
+        }
+    ]
+}
