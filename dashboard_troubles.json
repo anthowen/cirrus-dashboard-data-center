@@ -1,0 +1,28 @@
+{  
+    "data":[
+        {
+            "time": "2019/09/15 10:00:00",
+            "machine": "analyzer-0003",
+            "trouble": "Tcp traffic too low",
+            "solved": false
+        },
+        {
+            "time": "2019/09/15 10:00:00",
+            "machine": "analyzer-0004",
+            "trouble": "Lost connection",
+            "solved": false
+        },
+        {
+            "time": "2019/09/15 10:00:00",
+            "machine": "Wai_Fai_5GHz",
+            "trouble": "Too many connected users",
+            "solved": false
+        },
+        {
+            "time": "2019/09/15 10:00:00",
+            "machine": "Wai_Fai_2GHz",
+            "trouble": "Internet traffic too low",
+            "solved": false
+        }
+    ]
+}
