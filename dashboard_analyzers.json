@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "analyzer": "analyzer-0001",
+            "last_update": "2019/09/15 08:56:10",
+            "tcp_sent": 100,
+            "tcp_received": 50,
+            "udp": 10
+        },
+        {
+            "analyzer": "analyzer-0002",
+            "last_update": "2019/09/15 08:56:10",
+            "tcp_sent": 50,
+            "tcp_received": 50,
+            "udp": 10
+        },
+        {
+            "analyzer": "analyzer-0003",
+            "last_update": "2019/09/15 08:56:10",
+            "tcp_sent": 0,
+            "tcp_received": 0,
+            "udp": 10
+        },
+        {
+            "analyzer": "analyzer-0004",
+            "last_update": "2019/09/15 08:56:10",
+            "tcp_sent": 0,
+            "tcp_received": 0,
+            "udp": 0
+        },
+        {
+            "analyzer": "analyzer-0005",
+            "last_update": "2019/09/15 00:00:00",
+            "tcp_sent": 100,
+            "tcp_received": 50,
+            "udp": 100
+        },
+        {
+            "analyzer": "analyzer-0006",
+            "last_update": "2019/11/15 08:56:10",
+            "tcp_sent": 545,
+            "tcp_received": 25,
+            "udp": 12
+        },
+        {
+            "analyzer": "analyzer-home-01",
+            "last_update": "2019/10/15 08:56:10",
+            "tcp_sent": 1,
+            "tcp_received": 1,
+            "udp": 1
+        }
+    ]
+}
